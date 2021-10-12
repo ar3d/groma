@@ -2,7 +2,7 @@ $(document).ready(function() {
 
 	$(".popup-me_6").click(function(){
 
-		pop_init_6( "Ciascuna estremità dei quattro bracci detti corniculum, aveva un foro attraverso il quale pendeva un filo a piombo detto perpendiculum." );
+		pop_init_6( "Ciascuna estremità delle quattro braccia dette cornicula, aveva un foro attraverso il quale pendeva un filo a piombo detto perpendiculum." );
 
 	});
 
