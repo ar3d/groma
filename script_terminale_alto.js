@@ -2,7 +2,7 @@ $(document).ready(function() {
 
 	$(".popup-me_3").click(function(){
 
-		pop_init_3( "La parte terminale alta del ferramentum era costituita da un cilindro cavo leggermente rastremato in modo da permettere un fissaggio ottimale con l'asta di legno. L'esterno era tornito e presentava un allargamento su cui andava ad appoggiare il rostro superiore mediante un perno." );
+		pop_init_3( "La parte terminale alta del ferramentum era costituita da un cilindro cavo leggermente rastremato in modo da permettere un fissaggio ottimale sull'asta di legno. L'esterno era tornito e presentava un allargamento su cui andava ad appoggiare il rostro superiore mediante un perno." );
 
 	});
 
